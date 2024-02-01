@@ -1,0 +1,142 @@
+[
+    {
+        "question": "J’ai un projet dans le domaine du recyclage des déchets plastiques, puis-je avoir un quota mensuel ?",
+        "answer": [
+            "Non, il faut faire plus d’efforts pour la collecte."
+        ]
+    },
+    {
+        "question": "Je suis gêné par mon voisin (menuisier, mécanicien, tôlier, marbrerie…) qui dois-je contacter ?",
+        "answer": [
+            "Vous pouvez contacter les services de la police municipale de votre commune."
+        ]
+    },
+    {
+        "question": "On installe une antenne GSM sur le toit de mon voisin, qui dois-je envoyer une requête ?",
+        "answer": [
+            "Vous pouvez contacter soit la commune ou le Ministère des technologies de la communication ou encore Ministère de la santé publique."
+        ]
+    },
+    {
+        "question": "Les caves sont inondées, qui dois-je informer ?",
+        "answer": [
+            "Vous pouvez informer le syndic ou contacter les services privés spécialisés."
+        ]
+    },
+    {
+        "question": "Je suis gêné par dépotoir qui dois-je contacter ?",
+        "answer": [
+            "Vous devez contacter les services concernés de votre commune."
+        ]
+    },
+    {
+        "question": "J’ai constaté une pollution, un délit environnemental ou une atteinte à l’environnement, qui dois-je en informer?",
+        "answer": [
+            "Selon la nature du polluant ou de l’atteinte, vous pouvez contacter l’un des numéros verts suivants:",
+            "80 100 193, Office National de l'Assainissement (",
+            "ONAS",
+            ")",
+            "80 100 304, Agence Nationale de Protection de l'Environnement (",
+            "ANPE",
+            ")",
+            "80 100 281, Agence Nationale de Gestion des Déchets (",
+            "ANGed",
+            ")",
+            "80 100 313, Ministère de l'Environnement et du Développement Durable (MEDD)"
+        ]
+    },
+    {
+        "question": "Quels sont les documents exigés?",
+        "answer": [
+            "Local à usage résidentiel",
+            "Demande de raccordement (formulaire à retirer auprès des services de l’ONAS).",
+            "Copie de la dernière facture de consommation d’eau.",
+            "Reçu de paiement des frais de réfection de la chaussée de la route (à obtenir auprès de la municipalité concernée).",
+            "Permis de bâtir ou autorisation délivrée par la municipalité concernée, en cas de nécessité.",
+            "Local à usage non résidentiel",
+            "Signature d’un cahier des charges.",
+            "Constitution d’un dossier relatif au prétraitement, en cas de nécessité.",
+            "Dossier sur les caractéristiques du réseau interne."
+        ]
+    },
+    {
+        "question": "Quels sont les délais et les étapes pour bénéficier de ce service?",
+        "answer": [
+            "Raccordement ordinaire",
+            "Etude technique : Une semaine",
+            "Préparation du relevé de compte : Une semaine",
+            "Réalisation des travaux : Deux semaines",
+            "Raccordement nécessitant une extension du réseau",
+            "Etude technique : Deux semaines",
+            "Préparation du relevé de compte : Une semaine",
+            "Réalisation des travaux : Un à trois mois"
+        ]
+    },
+    {
+        "question": "Un organisme tiers, autre que l’ ONAS, peut-il procéder au raccordement de mon bien immeuble au réseau d’assainissement?",
+        "answer": [
+            "L’ ONAS peut confier la réalisation des travaux de raccordement à une entreprise agréée et sur la base d’un plan approuvé par l’Office, à condition:",
+            "que cette procédure soit mentionnée dans la demande de raccordement ;",
+            "que l’entreprise s’engage, par écrit, à réaliser les travaux, conformément aux spécifications techniques ;",
+            "de payer les frais de contrôle des travaux, estimés à 10% du coût du raccordement, sans compter les frais d’extension du réseau et de réfection de la chaussée de la route ;",
+            "de présenter un permis de bâtir."
+        ]
+    },
+    {
+        "question": "Puis-je raccorder ma propre canalisation d’évacuation des eaux pluviales au réseau d’assainissement?",
+        "answer": [
+            "Non. Les eaux pluviales ne peuvent être déversées dans le réseau public d’assainissement censé recueillir exclusivement les eaux usées."
+        ]
+    },
+    {
+        "question": "En cas de dysfonctionnement au niveau d’une conduite de raccordement ou d’une canalisation, qui est responsable de la réparation?",
+        "answer": [
+            "L’ONAS se charge de la réparation de ce genre de dysfonctionnement s’il s’avère que l’abonné n’y est pour rien"
+        ]
+    },
+    {
+        "question": "L’ONAS intervient-il à l’intérieur des domaines privés?",
+        "answer": [
+            "Non. L’ONAS n’intervient pas à l’intérieur des domaines privés. Sa mission se limite à l’entretien et à la maintenance des réseaux publics."
+        ]
+    },
+    {
+        "question": "Dois-je payer des frais pour le débouchage des canalisations d’assainissement?",
+        "answer": [
+            "Ce service est gratuit pour les abonnés de l’ONAS dans les zones prises en charge par l’Office. Les travaux ne concernent que les ouvrages situés sur la voie publique"
+        ]
+    },
+    {
+        "question": "Quelles sont les modalités de paiement des frais de branchement?",
+        "answer": [
+            "Les frais de branchement peuvent être payés auprès de l’un des districts de l’ONAS selon deux modalités : versement immédiat, par chèque bancaire ou mandat postal, ou paiement par tranche au moyen des factures de consommation de l’eau, sur une période maximum de 8 ans, majoré d’un taux d’intérêt.",
+            "La participation aux frais d’installation des réseaux :",
+            "sont exonérés de cette participation, les immeubles destinés exclusivement à l’habitation de l’usager ou à celle de sa famille. Dans le cas où le raccordement nécessite une extension, les 50 premiers mètres sont à la charge de l’ONAS, le reste sera facturé à l’usager et payé selon la modalité choisie.",
+            "le reste des usagers supportent la part contributive et les frais éventuels d’extension du réseau."
+        ]
+    },
+    {
+        "question": "Le raccordement des biens immeubles à usage non résidentiel (usage commercial, industriel ou artisanal) est-il soumis à une autorisation préalable?",
+        "answer": [
+            "Le raccordement des biens immeubles à usage non résidentiel n’est pas soumis à une autorisation préalable mais à un régime de cahier des charges. Le propriétaire du local est tenu de signer le cahier des charges fixant les conditions et les procédés de déversement des eaux usées non ménagères, conformément aux dispositions de l’arrêté du ministre de l’environnement et de l’aménagement du territoire en date du 28 février 2002. La qualité des eaux usées devant être déversées doit être conforme aux normes tunisiennes. Aussi, le propriétaire est-il tenu, en cas de nécessité, de réaliser une unité de prétraitement. L’ONAS fixe, dans la fiche technique annexée au cahier des charges, la moyenne du débit qui ne doit pas être dépassé."
+        ]
+    },
+    {
+        "question": "Où peut-on déposer la demande de raccordement ONAS?",
+        "answer": [
+            "Auprès d’un district, ou d’un centre d’exploitation."
+        ]
+    },
+    {
+        "question": "Quels sont les frais de branchement?",
+        "answer": [
+            "Les frais de branchement au réseau d’assainissement sont fixés forfaitairement. 260 dinars pour les logements à usage d’habitation personnelle et de 130 dinars pour les logements sociaux. Ne sont pas inclus dans ce tarif forfaitaire, les frais de réfection de la chaussée et les redevances municipales."
+        ]
+    },
+    {
+        "question": "Le raccordement au réseau public d’assainissement est-il obligatoire?",
+        "answer": [
+            "Dans les zones aménagées relevant du domaine d’intervention de l’ONAS, le raccordement au réseau public d’assainissement est obligatoire, en vertu de la loi N°41/93, si le réseau existe et s’il n’y a aucun empêchement technique."
+        ]
+    }
+]
